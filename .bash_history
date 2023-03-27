@@ -1144,3 +1144,76 @@ vim math.sh
 vim math.sh
 ./math.sh
 clear
+sudo apt update
+sudo apt install git
+git --version
+clear
+git config --global user.nsme "jane"
+git config --global user.nsme "dudu"
+git config --global user.email "namrathashiva2@gmail.com"
+git config --global core.editor "code --wait"
+git config --global init.defaultbranch main
+git config --list
+git config --global user.name "dudu"
+git config --global user.email "namrathashiva2@gmail.com"
+git config --global core.editor "code --wait"
+git config --global init.defaultbranch main
+git config --list
+%git config user.name
+% git config user.name
+% git config user.nsme
+%git config user.nsme
+git --version
+git config user.name
+clear
+pwd
+ls
+ls -a
+cd gitconfig
+cd .gitconfig
+cd .git
+vim gitconfig
+git --version
+git init
+pwd
+ls -a
+cd .git
+ls
+pwd
+cd ..
+ls
+clear
+echo "# Namratha_demo" >> README.md
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/namrathashivaHS/Namratha_demo.git
+git push -u origin main
+clear
+git push -u origin main
+clear
+git push -u origin main
+clear
+git remote -v
+git status
+touch test.txt
+ls
+git status
+git add test.txt
+git status
+echo "Adding one line to test" << test.txt
+
+
+
+ls
+exit
+quit
+clear
+
+ls
+cat test.txt
+git status
+echo "adding one line to test" << test.txt
+
+
+

@@ -65,4 +65,14 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/dudu/Pictures/Screenshots/Screenshot%20from%202023-03-27%2020-04-17.png" added="2023-03-27T14:34:17.339535Z" modified="2023-03-27T14:34:17.339542Z" visited="2023-03-27T14:34:17.339536Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-03-27T14:34:17.339539Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>
