@@ -1,0 +1,8 @@
+[user]
+	nsme = dudu
+	email = namrathashiva2@gmail.com
+	name = dudu
+[core]
+	editor = code --wait
+[init]
+	defaultbranch = main

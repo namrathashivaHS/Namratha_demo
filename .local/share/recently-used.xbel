@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/dudu/names.txt" added="2023-03-13T11:18:00.649752Z" modified="2023-03-20T16:34:40.215895Z" visited="2023-03-13T11:18:00.649754Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-03-20T16:34:40.215893Z" count="5"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gedit %U&apos;" modified="2023-03-20T16:34:39.358812Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dudu/testing/names.txt" added="2023-03-13T11:32:29.878911Z" modified="2023-03-13T11:32:29.878918Z" visited="2023-03-13T11:32:29.878912Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-03-13T11:32:29.878915Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dudu/redirection.txt" added="2023-03-13T12:15:36.693234Z" modified="2023-03-13T12:17:58.664787Z" visited="2023-03-13T12:15:36.693235Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-03-13T12:17:58.664785Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dudu/Pictures/Screenshots/Screenshot%20from%202023-03-14%2019-34-49.png" added="2023-03-14T14:05:34.666208Z" modified="2023-03-14T14:06:32.153566Z" visited="2023-03-14T14:05:34.666211Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;eog %U&apos;" modified="2023-03-14T14:06:06.900634Z" count="3"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-03-14T14:06:32.153562Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dudu/geditor.txt" added="2023-03-20T11:52:09.208270Z" modified="2023-03-20T11:52:09.208276Z" visited="2023-03-20T11:52:09.208271Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-03-20T11:52:09.208273Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dudu/Pictures/Screenshots/Screenshot%20from%202023-03-20%2022-04-10.png" added="2023-03-20T16:34:10.877608Z" modified="2023-03-20T16:34:10.877615Z" visited="2023-03-20T16:34:10.877610Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-03-20T16:34:10.877612Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

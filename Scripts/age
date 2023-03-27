@@ -1,0 +1,10 @@
+#!/bin/bash
+
+let age=28
+
+echo "initial age is $age"
+
+let age=$age+1
+
+echo "final age when terminated is $age"
+
