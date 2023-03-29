@@ -1217,3 +1217,24 @@ echo "adding one line to test" << test.txt
 
 
 
+ls
+cat test.txt
+echo "Adding one line to test" >> test.txt
+cat test.txt
+git status
+git add test.txt
+git status
+clear
+git --diff staged
+git diff --staged
+git status
+git commit -a -m "my first commit"
+git status
+clear
+git status
+git push origin main
+git status
+git log
+git log -p
+clar
+clear
